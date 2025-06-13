@@ -72,7 +72,8 @@ Em resumo, a Biblioteca Padrão fornece uma base poderosa e conveniente para con
 
 
 ```python
-# Código que é executado rapidamente para a tarefa em questão, minimiza o espaço de memória e segue os princípios de estilo de codificação do Python.
+# Código que é executado rapidamente para a tarefa em questão, minimiza o espaço de memória e segue os princípios de estilo de
+# codificação do Python.
 names = ['Jerry', 'Kramer', 'Elaine', 'George', 'Newman']
 
 i = 0
@@ -138,7 +139,8 @@ names_uppercase = [*names_map]
 print(names_uppercase)
 
 
-#Um array bidimensional numpy foi carregado na sua sessão (chamado nums) e impresso no console para sua #conveniência. numpy foi importado para a sua sessão como np.
+#Um array bidimensional numpy foi carregado na sua sessão (chamado nums) e impresso no console para sua #conveniência.
+#numpy foi importado para a sua sessão como np.
 # Print second row of nums
 print(nums[1,:])
 
